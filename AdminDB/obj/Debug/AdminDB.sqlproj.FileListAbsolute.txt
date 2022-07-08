@@ -1,0 +1,10 @@
+C:\Users\ferad\source\repos\LogingModel\AdminDB\bin\Debug\AdminDB.dacpac
+C:\Users\ferad\source\repos\LogingModel\AdminDB\bin\Debug\AdminDB.dll
+C:\Users\ferad\source\repos\LogingModel\AdminDB\bin\Debug\AdminDB.pdb
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\AdminDB.sqlproj.AssemblyReference.cache
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\Model.xml
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\refactor.xml
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\postdeploy.sql
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\predeploy.sql
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\AdminDB.dll
+C:\Users\ferad\source\repos\LogingModel\AdminDB\obj\Debug\AdminDB.pdb
